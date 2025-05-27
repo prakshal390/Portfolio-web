@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "This Project is useful to track your day to day expenses. it can add, delete and update your expenses.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://frontend-expense-tracker-qjco-git-main-prakshal-jain-s-projects.vercel.app/",
+    "source": "https://github.com/prakshal390"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/prakshal390"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/prakshal390"
+  }
+]

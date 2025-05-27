@@ -1,0 +1,25 @@
+[
+  { "Number":"1-",
+    "name": "Artificial Intelligence with Machine Learning Workshop",
+    "organization": "Remark Skill Education in association with Thomso, IIT Roorkee",
+    "issue_date": "2023-08-13",
+    "type": "Workshop Participation",
+    "description": "Gained hands-on experience in core concepts of Artificial Intelligence and Machine Learning, including supervised and unsupervised learning, and explored real-world applications under expert guidance at IIT Roorkee."
+  },
+
+  { "Number":"2-",
+    "name": "402 - Information Technology (NSQF Level - 2)",
+    "organization": "Central Board of Secondary Education (CBSE)",
+    "issue_date": "2020-07-15",
+    "type": "School Skill Certification",
+    "description": "Acquired foundational IT skills including basic programming, digital documentation, spreadsheet handling, and cyber safety as per NSQF Level 2 standards."
+  },
+
+  { "Number":"3-",
+    "name": "AI Tools and ChatGPT Workshop",
+    "organization": "be10x",
+    "issue_date": "2025-05-24",
+    "type": "Workshop Completion",
+    "description": "Successfully completed training on advanced AI tools and ChatGPT applications. Demonstrated the ability to rapidly create presentations, analyze datasets, and perform debugging tasks using AI-driven automation."
+  }
+]
