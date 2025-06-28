@@ -1,10 +1,10 @@
 [
   {
-    "title": "Expense Tracker",
+    "title": "Car Rental",
     "imageSrc": "projects/project.png",
-    "description": "This Project is useful to track your day to day expenses. it can add, delete and update your expenses.",
+    "description": "This Project is useful to rent a car. It has a user and admin panel. The user can book a car and the admin can add, delete and update the cars.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://frontend-expense-tracker-qjco-git-main-prakshal-jain-s-projects.vercel.app/",
+    "demo": "https://car-rental-project-ebon.vercel.app/",
     "source": "https://github.com/prakshal390"
   },
   {
@@ -16,11 +16,11 @@
     "source": "https://github.com/prakshal390"
   },
   {
-    "title": "Project C",
+    "title": "Expense Tracker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This Project is useful to track your day to day expenses. it can add, delete and update your expenses.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://frontend-expense-tracker-qjco-git-main-prakshal-jain-s-projects.vercel.app/",
     "source": "https://github.com/prakshal390"
   }
 ]
